@@ -30,7 +30,7 @@
     "jsonwebtoken": "^8.1.0",
     "juice": "^4.2.2",
     "md5": "^2.2.1",
-    "mongoose": "^4.13.9",
+    "mongoose": "^5.7.5",
     "morgan": "^1.9.1",
     "nodemailer": "^4.4.1",
     "nodemailer-sendgrid-transport": "^0.2.0",
