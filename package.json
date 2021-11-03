@@ -36,7 +36,7 @@
     "nodemailer-sendgrid-transport": "^0.2.0",
     "pug": "^2.0.3",
     "unirest": "^0.6.0",
-    "validator": "^9.2.0",
+    "validator": "^13.7.0",
     "winston": "^3.0.0-rc1"
   }
 }
