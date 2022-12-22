@@ -27,7 +27,7 @@
     "helmet": "^3.21.2",
     "html-to-text": "^3.3.0",
     "http-status-codes": "^1.4.0",
-    "jsonwebtoken": "^8.1.0",
+    "jsonwebtoken": "^9.0.0",
     "juice": "^4.2.2",
     "md5": "^2.2.1",
     "mongoose": "^4.13.9",
